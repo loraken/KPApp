@@ -30,22 +30,22 @@ Application presentation: https://youtu.be/b2jsuK-s5bU<BR>
 Karol Zamrowski : http://www.karolprogramuje.pl<BR>
 <BR>
 Android application download from: http://www.karolprogramuje.pl/KPApp.apk<BR>
+<BR><BR>
+<B>For Windows</B>
+<BR><BR>
+![](/Screen/Windows/KP1.png)
+![](/Screen/Windows/KP2.png)
+![](/Screen/Windows/KP3.png)
 <BR>
-KPApp/tree/main/Screen/Android
-<img src="https://github.com/loraken/KPApp/Screen/Windows/KP1.png">
-<img src="https://github.com/loraken/KPApp/Screen/Windows/KP2.png">
-<img src="https://github.com/loraken/KPApp/Screen/Windows/KP3.png">
+![](/Screen/Windows/KP4.png)
+![](/Screen/Windows/KP5.png)
+![](/Screen/Windows/KP6.png)
+<BR><BR>
+<B>For Android</B>
+<BR><BR>
+![](/Screen/Android/KPM1.png)
+![](/Screen/Android/KPM2.png)
 <BR>
-<img src="https://github.com/loraken/KPApp/Screen/Windows/KP4.png">
-<img src="https://github.com/loraken/KPApp/Screen/Windows/KP5.png">
-<img src="https://github.com/loraken/KPApp/Screen/Windows/KP6.png">
-<BR>
-<img src="https://github.com/loraken/KPApp/Screen/Android/KP1M.png">
-<img src="https://github.com/loraken/KPApp/Screen/Android/KP2M.png">
-<img src="https://github.com/loraken/KPApp/Screen/Android/KP3M.png">
-<BR>
-<img src="https://github.com/loraken/KPApp/Screen/Android/KP4M.png">
-<img src="https://github.com/loraken/KPApp/tree/main/Screen/Android/KPM5.png">
-
-<BR>
+![](/Screen/Android/KPM3.png)
+![](/Screen/Android/KPM4.png)
 
