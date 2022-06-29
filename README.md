@@ -31,7 +31,7 @@ Karol Zamrowski : http://www.karolprogramuje.pl<BR>
 <BR>
 Android application download from: http://www.karolprogramuje.pl/KPApp.apk<BR>
 <BR>
-
+KPApp/tree/main/Screen/Android
 <img src="https://github.com/loraken/KPApp/Screen/Windows/KP1.png">
 <img src="https://github.com/loraken/KPApp/Screen/Windows/KP2.png">
 <img src="https://github.com/loraken/KPApp/Screen/Windows/KP3.png">
@@ -45,7 +45,7 @@ Android application download from: http://www.karolprogramuje.pl/KPApp.apk<BR>
 <img src="https://github.com/loraken/KPApp/Screen/Android/KP3M.png">
 <BR>
 <img src="https://github.com/loraken/KPApp/Screen/Android/KP4M.png">
-<img src="https://github.com/loraken/KPApp/Screen/Android/KP5M.png">
+<img src="https://github.com/loraken/KPApp/tree/main/Screen/Android/KP5M.png">
 
 <BR>
 
