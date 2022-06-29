@@ -1,0 +1,348 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited TabControl1: TTabControl
+    Size.Width = 450.000000000000000000
+    Size.Height = 695.000000000000000000
+    TabIndex = 2
+    Sizes = (
+      450s
+      695s
+      450s
+      695s
+      450s
+      695s
+      450s
+      695s
+      450s
+      695s
+      450s
+      695s)
+    inherited TabItem1: TTabItem
+      IsSelected = False
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited StartFrame11: TStartFrame1
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        inherited Layout1: TLayout
+          Size.Width = 450.000000000000000000
+          Size.Height = 695.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 695.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 695.000000000000000000
+            inherited Text2: TText
+              Position.X = 81.203125000000000000
+            end
+            inherited Text5: TText
+              Position.X = 81.203125000000000000
+            end
+            inherited Text1: TText
+              Position.X = 92.250000000000000000
+            end
+          end
+          inherited SkAnimatedImage1: TSkAnimatedImage
+            Position.X = 157.000000000000000000
+            Position.Y = 471.000000000000000000
+          end
+        end
+      end
+    end
+    inherited TabItem2: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited MenuFrame11: TMenuFrame1
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        inherited Layout1: TLayout
+          Size.Width = 450.000000000000000000
+          Size.Height = 645.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+            inherited Text2: TText
+              Size.Width = 450.000000000000000000
+            end
+            inherited Rectangle3: TRectangle
+              Size.Width = 350.000000000000000000
+            end
+            inherited Rectangle4: TRectangle
+              Size.Width = 350.000000000000000000
+            end
+            inherited Rectangle5: TRectangle
+              Size.Width = 350.000000000000000000
+            end
+            inherited SkAnimatedImage1: TSkAnimatedImage
+              Size.Width = 450.000000000000000000
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          Size.Width = 450.000000000000000000
+          inherited Rectangle6: TRectangle
+            Size.Width = 450.000000000000000000
+            inherited Layout7: TLayout
+              Size.Width = 450.000000000000000000
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton2: TSpeedButton
+                Position.X = 401.000000000000000000
+              end
+            end
+          end
+        end
+      end
+    end
+    inherited TabItem3: TTabItem
+      IsSelected = True
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited BydFrame11: TBydFrame1
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        inherited Layout1: TLayout
+          Size.Width = 450.000000000000000000
+          Size.Height = 645.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+            ShowScrollBars = True
+            Viewport.Width = 450.000000000000000000
+            Viewport.Height = 645.000000000000000000
+            inherited Layout2: TLayout
+              Align = Center
+              Size.Height = 645.000000000000000000
+              inherited Rectangle3: TRectangle
+                Size.Height = 645.000000000000000000
+                inherited Layout3: TLayout
+                  inherited Label1: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+                inherited Layout4: TLayout
+                  inherited Label3: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+                inherited Layout5: TLayout
+                  inherited Label5: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          Size.Width = 450.000000000000000000
+          inherited Rectangle4: TRectangle
+            Size.Width = 450.000000000000000000
+            inherited Layout7: TLayout
+              Size.Width = 450.000000000000000000
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton1: TSpeedButton
+                Position.Y = 1.000000000000000000
+                Size.Height = 48.000000000000000000
+              end
+              inherited SpeedButton2: TSpeedButton
+                Position.X = 401.000000000000000000
+                Position.Y = 1.000000000000000000
+                Size.Height = 48.000000000000000000
+              end
+            end
+          end
+        end
+      end
+    end
+    inherited TabItem4: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited TorFrame11: TTorFrame1
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        inherited Layout1: TLayout
+          Size.Width = 450.000000000000000000
+          Size.Height = 645.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+            Viewport.Width = 450.000000000000000000
+            Viewport.Height = 645.000000000000000000
+            inherited Layout2: TLayout
+              inherited Rectangle3: TRectangle
+                inherited Layout3: TLayout
+                  inherited Label1: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+                inherited Layout4: TLayout
+                  inherited Label3: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+                inherited Layout5: TLayout
+                  inherited Label5: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          Size.Width = 450.000000000000000000
+          inherited Rectangle4: TRectangle
+            Size.Width = 450.000000000000000000
+            inherited Layout7: TLayout
+              Size.Width = 450.000000000000000000
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton2: TSpeedButton
+                Position.X = 401.000000000000000000
+              end
+            end
+          end
+        end
+      end
+    end
+    inherited TabItem5: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited WloFrame11: TWloFrame1
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        inherited Layout1: TLayout
+          Size.Width = 450.000000000000000000
+          Size.Height = 645.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+            Viewport.Width = 450.000000000000000000
+            Viewport.Height = 645.000000000000000000
+            inherited Layout2: TLayout
+              inherited Rectangle3: TRectangle
+                inherited Layout3: TLayout
+                  inherited Label1: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+                inherited Layout4: TLayout
+                  inherited Label3: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+                inherited Layout5: TLayout
+                  inherited Label5: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          Size.Width = 450.000000000000000000
+          inherited Rectangle4: TRectangle
+            Size.Width = 450.000000000000000000
+            inherited Layout7: TLayout
+              Size.Width = 450.000000000000000000
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton2: TSpeedButton
+                Position.X = 401.000000000000000000
+              end
+            end
+          end
+        end
+      end
+    end
+    inherited TabItem6: TTabItem
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inherited AboutFrame11: TAboutFrame1
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        inherited Layout6: TLayout
+          Size.Width = 450.000000000000000000
+          inherited Rectangle4: TRectangle
+            Size.Width = 450.000000000000000000
+            inherited Layout7: TLayout
+              Size.Width = 450.000000000000000000
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton2: TSpeedButton
+                Position.X = 401.000000000000000000
+              end
+            end
+          end
+        end
+        inherited Layout1: TLayout
+          Size.Width = 450.000000000000000000
+          Size.Height = 645.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Width = 450.000000000000000000
+            Size.Height = 645.000000000000000000
+            Viewport.Width = 450.000000000000000000
+            Viewport.Height = 645.000000000000000000
+            inherited Layout2: TLayout
+              inherited Rectangle3: TRectangle
+                inherited Layout3: TLayout
+                  inherited Label1: TLabel
+                    TextSettings.Font.StyleExt = {00070000000000000004000000}
+                  end
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

@@ -1,0 +1,399 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'KUJAWSKO - POMORSKIE'
+  ClientHeight = 480
+  ClientWidth = 320
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object TabControl1: TTabControl
+    Align = Client
+    Size.Width = 320.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+    TabHeight = 49.000000000000000000
+    TabIndex = 0
+    TabOrder = 0
+    TabPosition = None
+    Sizes = (
+      320s
+      480s
+      320s
+      480s
+      320s
+      480s
+      320s
+      480s
+      320s
+      480s
+      320s
+      480s)
+    object TabItem1: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = True
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'TabItem1'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inline StartFrame11: TStartFrame1
+        Align = Client
+        Size.Width = 320.000000000000000000
+        Size.Height = 480.000000000000000000
+        Size.PlatformDefault = False
+        inherited Layout1: TLayout
+          inherited Rectangle3: TRectangle
+            OnClick = StartFrame11Rectangle3Click
+          end
+          inherited SkAnimatedImage1: TSkAnimatedImage
+            Anchors = [akBottom]
+            Position.Y = 319.000000000000000000
+          end
+        end
+      end
+    end
+    object TabItem2: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'TabItem2'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inline MenuFrame11: TMenuFrame1
+        Align = Client
+        Size.Width = 320.000000000000000000
+        Size.Height = 480.000000000000000000
+        Size.PlatformDefault = False
+        inherited Layout1: TLayout
+          inherited Rectangle2: TRectangle
+            inherited Text2: TText
+              Margins.Bottom = 10.000000000000000000
+            end
+            inherited Rectangle3: TRectangle
+              Padding.Right = 20.000000000000000000
+              Position.Y = 212.000000000000000000
+              OnClick = MenuFrame11Rectangle3Click
+            end
+            inherited Rectangle4: TRectangle
+              Position.Y = 282.000000000000000000
+              OnClick = MenuFrame11Rectangle4Click
+            end
+            inherited Rectangle5: TRectangle
+              Position.Y = 352.000000000000000000
+              OnClick = MenuFrame11Rectangle5Click
+            end
+            inherited SkAnimatedImage1: TSkAnimatedImage
+              Position.Y = 79.000000000000000000
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          inherited Rectangle6: TRectangle
+            inherited Layout7: TLayout
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton1: TSpeedButton
+                OnClick = MenuFrame11SpeedButton1Click
+              end
+              inherited SpeedButton2: TSpeedButton
+                OnClick = MenuFrame11SpeedButton2Click
+              end
+            end
+          end
+        end
+      end
+    end
+    object TabItem3: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'TabItem3'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inline BydFrame11: TBydFrame1
+        Align = Client
+        Size.Width = 320.000000000000000000
+        Size.Height = 480.000000000000000000
+        Size.PlatformDefault = False
+        inherited Layout1: TLayout
+          Size.Height = 430.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Height = 430.000000000000000000
+            Viewport.Width = 320.000000000000000000
+            Viewport.Height = 430.000000000000000000
+            inherited Layout8: TLayout
+              Position.X = 136.000000000000000000
+              Position.Y = 192.000000000000000000
+              inherited Layout2: TLayout
+                inherited Rectangle3: TRectangle
+                  inherited Layout3: TLayout
+                    inherited Label1: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                  inherited Layout4: TLayout
+                    inherited Label3: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                  inherited Layout5: TLayout
+                    inherited Label5: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          inherited Rectangle4: TRectangle
+            inherited Layout7: TLayout
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton1: TSpeedButton
+                OnClick = BydFrame11SpeedButton1Click
+              end
+              inherited SpeedButton2: TSpeedButton
+                OnClick = BydFrame11SpeedButton2Click
+              end
+            end
+          end
+        end
+      end
+    end
+    object TabItem4: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'TabItem4'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inline TorFrame11: TTorFrame1
+        Align = Client
+        Size.Width = 320.000000000000000000
+        Size.Height = 480.000000000000000000
+        Size.PlatformDefault = False
+        inherited Layout1: TLayout
+          Size.Height = 430.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Height = 430.000000000000000000
+            Viewport.Width = 320.000000000000000000
+            Viewport.Height = 430.000000000000000000
+            inherited Layout8: TLayout
+              Position.X = 136.000000000000000000
+              Position.Y = 288.000000000000000000
+              inherited Layout2: TLayout
+                inherited Rectangle3: TRectangle
+                  inherited Layout3: TLayout
+                    inherited Label1: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                  inherited Layout4: TLayout
+                    inherited Label3: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                  inherited Layout5: TLayout
+                    inherited Label5: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          inherited Rectangle4: TRectangle
+            inherited Layout7: TLayout
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton1: TSpeedButton
+                OnClick = TorFrame11SpeedButton1Click
+              end
+              inherited SpeedButton2: TSpeedButton
+                OnClick = TorFrame11SpeedButton2Click
+              end
+            end
+          end
+        end
+      end
+    end
+    object TabItem5: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'TabItem5'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inline WloFrame11: TWloFrame1
+        Align = Client
+        Size.Width = 320.000000000000000000
+        Size.Height = 480.000000000000000000
+        Size.PlatformDefault = False
+        inherited Layout1: TLayout
+          Size.Height = 430.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Height = 430.000000000000000000
+            Viewport.Width = 320.000000000000000000
+            Viewport.Height = 430.000000000000000000
+            inherited Layout8: TLayout
+              Position.X = 136.000000000000000000
+              Position.Y = 264.000000000000000000
+              inherited Layout2: TLayout
+                inherited Rectangle3: TRectangle
+                  inherited Layout3: TLayout
+                    inherited Label1: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                  inherited Layout4: TLayout
+                    inherited Label3: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                  inherited Layout5: TLayout
+                    inherited Label5: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                end
+              end
+            end
+          end
+        end
+        inherited Layout6: TLayout
+          inherited Rectangle4: TRectangle
+            inherited Layout7: TLayout
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton1: TSpeedButton
+                OnClick = WloFrame11SpeedButton1Click
+              end
+              inherited SpeedButton2: TSpeedButton
+                OnClick = WloFrame11SpeedButton2Click
+              end
+            end
+          end
+        end
+      end
+    end
+    object TabItem6: TTabItem
+      CustomIcon = <
+        item
+        end>
+      IsSelected = False
+      Size.Width = 8.000000000000000000
+      Size.Height = 8.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = ''
+      TabOrder = 0
+      Text = 'TabItem6'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
+      inline AboutFrame11: TAboutFrame1
+        Align = Client
+        Size.Width = 320.000000000000000000
+        Size.Height = 480.000000000000000000
+        Size.PlatformDefault = False
+        inherited Layout6: TLayout
+          inherited Rectangle4: TRectangle
+            inherited Layout7: TLayout
+              inherited Label7: TLabel
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited SpeedButton1: TSpeedButton
+                OnClick = AboutFrame11SpeedButton1Click
+              end
+              inherited SpeedButton2: TSpeedButton
+                OnClick = AboutFrame11SpeedButton2Click
+              end
+            end
+          end
+        end
+        inherited Layout1: TLayout
+          Size.Height = 430.000000000000000000
+          inherited Rectangle1: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited Rectangle2: TRectangle
+            Size.Height = 430.000000000000000000
+          end
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Height = 430.000000000000000000
+            Viewport.Width = 320.000000000000000000
+            Viewport.Height = 430.000000000000000000
+            inherited Layout4: TLayout
+              Position.X = 136.000000000000000000
+              Position.Y = 184.000000000000000000
+              inherited Layout2: TLayout
+                inherited Rectangle3: TRectangle
+                  inherited Layout3: TLayout
+                    inherited Label1: TLabel
+                      TextSettings.Font.StyleExt = {00070000000000000004000000}
+                    end
+                  end
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end
