@@ -32,21 +32,20 @@ Karol Zamrowski : http://www.karolprogramuje.pl<BR>
 Android application download from: http://www.karolprogramuje.pl/KPApp.apk<BR>
 <BR>
 
-<img src="https://github.com/loraken/KP/Screen/Windows/KP1.png">
-<img src="https://github.com/gbegreg/KP/Screen/Windows/KP2.png">
-<img src="https://github.com/gbegreg/KP/Screen/Windows/KP3.png">
+<img src="https://github.com/loraken/KPApp/Screen/Windows/KP1.png">
+<img src="https://github.com/loraken/KPApp/Screen/Windows/KP2.png">
+<img src="https://github.com/loraken/KPApp/Screen/Windows/KP3.png">
 <BR>
-<img src="https://github.com/gbegreg/KP/Screen/Windows/KP4.png">
-<img src="https://github.com/gbegreg/KP/Screen/Windows/KP5.png">
-<img src="https://github.com/gbegreg/KP/Screen/Windows/KP6.png">
+<img src="https://github.com/loraken/KPApp/Screen/Windows/KP4.png">
+<img src="https://github.com/loraken/KPApp/Screen/Windows/KP5.png">
+<img src="https://github.com/loraken/KPApp/Screen/Windows/KP6.png">
 <BR>
-<img src="https://github.com/loraken/KP/Screen/Android/KP1.png">
-<img src="https://github.com/gbegreg/KP/Screen/Android/KP2.png">
-<img src="https://github.com/gbegreg/KP/Screen/Android/KP3.png">
+<img src="https://github.com/loraken/KPApp/Screen/Android/KP1M.png">
+<img src="https://github.com/loraken/KPApp/Screen/Android/KP2M.png">
+<img src="https://github.com/loraken/KPApp/Screen/Android/KP3M.png">
 <BR>
-<img src="https://github.com/gbegreg/KP/Screen/Android/KP4.png">
-<img src="https://github.com/gbegreg/KP/Screen/Android/KP5.png">
+<img src="https://github.com/loraken/KPApp/Screen/Android/KP4M.png">
+<img src="https://github.com/loraken/KPApp/Screen/Android/KP5M.png">
 
 <BR>
-
 
