@@ -35,9 +35,10 @@ Android application download from: http://www.karolprogramuje.pl/KPApp.apk<BR>
 <BR><BR>
 ![](/Screen/Windows/KP1.png)
 ![](/Screen/Windows/KP2.png)
-![](/Screen/Windows/KP3.png)
 <BR>
+![](/Screen/Windows/KP3.png)
 ![](/Screen/Windows/KP4.png)
+<BR>
 ![](/Screen/Windows/KP5.png)
 ![](/Screen/Windows/KP6.png)
 <BR><BR>
